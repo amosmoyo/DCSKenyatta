@@ -1,0 +1,11 @@
+{
+  "name": "dscku",
+  "version": "1.0.0",
+  "description": "DSC Kenyatta University Main Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amos Moyo",
+  "license": "MIT"
+}
